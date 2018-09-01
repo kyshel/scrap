@@ -1,3 +1,3 @@
 # scrap
 
-pieces of codes
+pieces of code
